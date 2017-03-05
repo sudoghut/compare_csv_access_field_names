@@ -1,6 +1,9 @@
 # data
 *.txt
 
+#github
+*.git*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
