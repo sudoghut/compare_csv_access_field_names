@@ -15,5 +15,3 @@ pyodbc
 ## tips
 1. When the Access table field names include non-English characters, it might triggle a bug in pyodbc. When it happens, the program will print "please run it again". Please just run this py file again
 2. pyodbc works better in python 2 than 3 in my own experiment
-
-test
