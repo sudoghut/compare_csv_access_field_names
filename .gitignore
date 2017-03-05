@@ -1,6 +1,8 @@
 # data
 *.txt
 *.csv
+*.mdb
+gitkeep
 
 #github
 .gitignore
