@@ -1,8 +1,10 @@
 # data
 *.txt
+*.csv
 
 #github
-*.git*
+.gitignore
+.gitattributes
 
 # Windows image file caches
 Thumbs.db
