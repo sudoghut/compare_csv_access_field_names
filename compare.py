@@ -89,5 +89,5 @@ def compare_without_order(list1, list2):
     
 csv_fieldname_list = get_csv_filednames("text/")
 access_fieldname_list = get_access_filenames("new_lease")
-#compare_with_order(csv_fieldname_list, access_fieldname_list)
-compare_without_order(csv_fieldname_list, access_fieldname_list)
+compare_with_order(csv_fieldname_list, access_fieldname_list)
+#compare_without_order(csv_fieldname_list, access_fieldname_list)
